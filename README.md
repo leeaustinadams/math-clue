@@ -6,6 +6,8 @@ A math game by Lee Adams and @3adamskids
 
 Learn math, have fun, not necessarily in that order.
 
+![Design Doc](./math_clue_design_doc.jpg "Design Doc")
+
 ## Setup
 
 To get an interactive development environment run:
@@ -34,4 +36,4 @@ get live reloading, nor a REPL.
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 FIXME(pick a license)
